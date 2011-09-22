@@ -1,5 +1,6 @@
-# Ruby on Rails Tutorial: первое приложение
+# Ruby on Rails Tutorial: - first app!
 
-Это первое приложение для
-[*Ruby on Rails Tutorial: Изучение Rails на Примерах*](http://railstutorial.org/)
- [Майкл Хартл](http://michaelhartl.com/).
+This is first app for:
+[*Ruby on Rails Tutorial:]
+(http://railstutorial.org/)
+(http://michaelhartl.com/).
